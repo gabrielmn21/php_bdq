@@ -1,2 +1,2 @@
-# php_bdq
-Banco de dados + php
+# PHP_BDQ
+Base para trabalho técnico de documentação
