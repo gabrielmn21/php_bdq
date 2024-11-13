@@ -1,2 +1,2 @@
 # PHP_BDQ
-Base para trabalho técnico de documentação
+trabalho técnico de documentação(BD)
